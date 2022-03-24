@@ -1,2 +1,2 @@
-Hello, #{ARGV.first}
+Hello, #{ARGV.second}
 
